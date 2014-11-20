@@ -6,5 +6,9 @@ sleep 60
 done
 
 
+Содержимое crontab:
+  0-59 19 20 11 3 sh ~/script.sh
+
+
 
 
