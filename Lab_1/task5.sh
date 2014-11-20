@@ -1,3 +1,3 @@
 #!/bin/bash
-who | mail -s "Hello from Mac!" zemuvier@gmail.com
+echo Loginned $(who) | mail -s "Hello from Mac!" zemuvier@gmail.com
 
